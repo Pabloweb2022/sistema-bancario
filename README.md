@@ -1,4 +1,4 @@
-# sistema-bancario
+# Sistema Bancário
 Desafio de projeto da DIO
 
 Descrição: Este projeto implementa um sistema bancário simples que permite ao usuário realizar operações básicas de uma conta bancária por meio de um menu interativo. O sistema oferece funcionalidades para depósitos, saques e consulta de extrato.
